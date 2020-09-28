@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("du är gay")
+    alert("Måndagar är tråkiga.")
 }
